@@ -1,6 +1,6 @@
 # WITWise
 WITwise is a social media app exclusively for women in tech 
-Here's a README description for your WITwise project on GitHub:
+
 
 ---
 
